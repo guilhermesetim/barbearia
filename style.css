@@ -72,6 +72,10 @@ header {
     font: normal normal 1.2em/1.5em var(--font);
     text-indent: 20px;
 }
+.app strong {
+    color: var(--amarelo-escuro);
+    text-shadow: 0.7px 0.7px 0.7px rgba(0, 0, 0, 0.911);
+}
 .cell-phone {
     display: flex;
     flex-flow: row nowrap;
