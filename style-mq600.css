@@ -1,0 +1,22 @@
+@media screen {
+    .logo {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        height: 200px;
+        width: 200px;
+    }
+    .header-descript {
+        top: 90%;
+        right: 5%;
+    }
+    .title-app{
+        font-size: 2em;
+    }
+    .app > p {
+        font-size: 1em;
+    }
+    .title-services {
+        font-size: 2em;
+    }
+}

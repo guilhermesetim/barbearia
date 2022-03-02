@@ -1,0 +1,16 @@
+@media screen {
+    .logo {
+        height: 100px;
+        width: 100px;
+    }
+    .header-descript {
+        top: 80%;
+        font-size: 1.3em;
+    }
+    .title-app{
+        font-size: 1.5em;
+    }
+    .title-services {
+        font-size: 1.5em;
+    }
+}
