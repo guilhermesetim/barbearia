@@ -15,7 +15,7 @@
 /*header section*/
 header {
     height: 100vh;
-    background: url('/img/header2.jpg') center top;
+    background: var(--escuro) url('/img/header2.jpg') center top;
     background-size: cover;
     background-attachment: fixed;
 }
