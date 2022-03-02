@@ -10,6 +10,9 @@
         top: 90%;
         right: 5%;
     }
+    header {
+        background-image: url('/img/header3.jpg');
+    }
     .title-app{
         font-size: 2em;
     }
